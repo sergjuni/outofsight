@@ -1,7 +1,7 @@
 +++
 date = '2025-06-19T14:07:48-03:00'
 draft = false
-title = 'hello-world-nah'
+title = 'hello-wor- nah'
 +++
 
 so here we are, or i am, i dont know
