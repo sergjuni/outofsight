@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on outofsight</title>
+    <link>http://localhost:1313/outofsight/posts/</link>
+    <description>Recent content in Posts on outofsight</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Jun 2025 14:07:48 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/outofsight/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello-world-nah</title>
+      <link>http://localhost:1313/outofsight/posts/hello-wo-nah/</link>
+      <pubDate>Thu, 19 Jun 2025 14:07:48 -0300</pubDate>
+      <guid>http://localhost:1313/outofsight/posts/hello-wo-nah/</guid>
+      <description>&lt;p&gt;so here we are, or i am, i dont know&lt;/p&gt;&#xA;&lt;p&gt;i guess there isnt much to say at the time, i had, some months ago, an insight &lt;strong&gt;I WANT TO MAKE A GAME&lt;/strong&gt;, so i started learning godot which led me to learn blender which led to me being extremely frustrated because i tried to jump some learning steps about 3d modeling and oh boy, did i have fucked shit up&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

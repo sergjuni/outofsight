@@ -1,0 +1,43 @@
+baseURL = 'https://serjuni.github.io/outofsight/'
+languageCode = 'en-us'
+title = 'outofsight'
+theme = 'terminal'
+
+[params]
+  mainSections = ["posts"]
+
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "outofsight"
+
+    [languages.en.params]
+      subtitle = "simple tech blog, nothing much"
+      owner = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "++"
+      readMore = "+"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "outofsight"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
+        [[languages.en.menu.main]]
+          identifier = "About"
+          name = "About"
+          url = "/about"
