@@ -30,7 +30,7 @@ theme = 'terminal'
 
       [languages.en.params.logo]
         logoText = "outofsight"
-        logoHomeLink = "/"
+        logoHomeLink = "/outofsight"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
