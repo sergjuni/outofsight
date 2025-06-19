@@ -1,4 +1,4 @@
-baseURL = 'https://serjuni.github.io/outofsight/'
+baseURL = 'https://sergjuni.github.io/outofsight/'
 languageCode = 'en-us'
 title = 'outofsight'
 theme = 'terminal'
